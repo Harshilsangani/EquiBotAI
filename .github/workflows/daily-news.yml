@@ -2,7 +2,11 @@ name: Daily News Bot
 
 on:
   schedule:
-    - cron: '30 8 * * *'  # 1:30 PM IST = 8:30 AM UTC
+    # Run every 4 hours: 8 AM, 12 PM, 4 PM, 8 PM IST
+    - cron: '30 2 * * *'   # 8:00 AM IST
+    - cron: '30 6 * * *'   # 12:00 PM IST (Noon)
+    - cron: '30 10 * * *'  # 4:00 PM IST
+    - cron: '30 14 * * *'  # 8:00 PM IST
   workflow_dispatch:  # Allows manual testing
 
 jobs:
