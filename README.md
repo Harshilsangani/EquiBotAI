@@ -2,9 +2,12 @@
 
 An intelligent Twitter bot that automatically posts Indian stock market updates 4 times daily using AI-powered news summarization.
 
+**🐦 Live Bot: [@EquiBotAI](https://twitter.com/EquiBotAI)**
+
 ![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![Status](https://img.shields.io/badge/Status-Active-success.svg)
+[![Follow](https://img.shields.io/twitter/follow/EquiBotAI?style=social)](https://twitter.com/EquiBotAI)
 
 ## 📊 Features
 
@@ -411,15 +414,13 @@ The creator is not responsible for any trading losses or decisions made based on
 
 ## 📞 Support
 
+- **Live Bot**: [@EquiBotAI](https://twitter.com/EquiBotAI) - Follow for daily updates!
 - **Issues**: [GitHub Issues](https://github.com/YOUR_USERNAME/indian-stock-market-bot/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/YOUR_USERNAME/indian-stock-market-bot/discussions)
-- **Twitter**: [@YourBotHandle](https://twitter.com/YourBotHandle)
-
-## 🌟 Star History
-
-If you find this project useful, please consider giving it a ⭐️ on GitHub!
 
 ---
+
+**🐦 Follow [@EquiBotAI](https://twitter.com/EquiBotAI) for 4 daily Indian stock market updates!**
 
 **Made with ❤️ for Indian Stock Market Enthusiasts**
 
